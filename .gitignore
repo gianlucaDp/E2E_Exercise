@@ -1,0 +1,8 @@
+
+*.pyc
+allure_results/
+media/
+geckodriver.log
+.venv/
+.vscode/
+.DS_Store
